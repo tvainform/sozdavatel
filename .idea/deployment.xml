@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="sozdavatel" createEmptyFolders="true" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ahnames_vipdosugperm">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="itkservice">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="permxxx">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sozdavatel">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/.cache" />
+            <excludedPath path="/.gnupg" />
+            <excludedPath path="/public_html/bitrix" />
+            <excludedPath path="/public_html/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.cache" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.gnupg" />
+            <excludedPath local="true" path="$PROJECT_DIR$/public_html/bitrix" />
+            <excludedPath local="true" path="$PROJECT_DIR$/public_html/upload" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="vipdosugperm">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="vipdosugrus">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
