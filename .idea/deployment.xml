@@ -37,6 +37,9 @@
             <excludedPath local="true" path="$PROJECT_DIR$/.gnupg" />
             <excludedPath local="true" path="$PROJECT_DIR$/public_html/bitrix" />
             <excludedPath local="true" path="$PROJECT_DIR$/public_html/upload" />
+            <excludedPath path="/s2/public_html/bitrix" />
+            <excludedPath path="/s2/public_html/upload" />
+            <excludedPath path="/s2/public_html/local" />
           </excludedPaths>
         </serverdata>
       </paths>

@@ -1,0 +1,52 @@
+:root {
+  --color1: #FF784E;
+  --color2: #009CAE;
+  --color3: #1C71B8;
+  --color4: #ccc;
+  --radius: 5px;
+  // ANIMATIONS
+  --animation1: all .30s ease-out;
+  // SHADOWS
+  --box-shadow1: 0px 1px 9px rgba(41, 37, 37, 1);
+}
+
+
+.hidden {
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  position: absolute;
+  left: -99999px;
+}
+
+/*
+
+
+<svg class="icon">
+  <use xlink:href="#biodegradable"></use>
+</svg>
+
+<svg class="icon">
+  <use xlink:href="#acrylic"></use>
+</svg>
+
+<svg class="icon">
+  <use xlink:href="#instagram"></use>
+</svg>
+
+<svg class="icon">
+  <use xlink:href="#knitted"></use>
+</svg>
+
+
+<svg class="icon">
+  <use xlink:href="#lamp"></use>
+</svg>
+
+
+<svg class="icon">
+  <use xlink:href="#vk"></use>
+</svg>
+
+
+*/
